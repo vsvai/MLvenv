@@ -1,7 +1,8 @@
 # MLvenv
 testingout projects
+
+![alt text](/code1.PNG)
+![alt text](/code2.PNG)
+![alt text](/code3.PNG)
 ![alt text](/Microsoft.PNG)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](/database.PNG)
